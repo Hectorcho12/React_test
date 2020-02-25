@@ -8,3 +8,10 @@
     border-style: double;
     border-color: red;
 }
+
+h1{
+    font-style: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    size: 40cm;
+}
